@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fitrah Fadlansyah</h1>
+<h3 align="center">I am a 12th-grade student at SMK TI Dwiguna, majoring in Software and Game Development (PPLG). At school, I also learn how to develop games, explore various technologies, and understand the latest developments in Artificial Intelligence (AI).</h3>
+
 - 📫 How to reach me **fitrahfadlansyah@gmail.com**
+
+- 📄 Know about my experiences [I also completed an internship at Jakarta Global University and had the opportunity to visit Oracle, where I gained valuable insights into the professional technology industry.](I also completed an internship at Jakarta Global University and had the opportunity to visit Oracle, where I gained valuable insights into the professional technology industry.)
+
+- ⚡ Fun fact **funfact about me - I enjoy playing games. - I love eating. - I enjoy listening to music. - I like learning new things. - I am happy to help others.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
