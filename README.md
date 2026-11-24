@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fitrah Fadlansyah</h1>
 <h3 align="center">I am a 12th-grade student at SMK TI Dwiguna, majoring in Software and Game Development (PPLG). At school, I also learn how to develop games, explore various technologies, and understand the latest developments in Artificial Intelligence (AI).</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fitrahfadlansyah-ai" alt="fitrahfadlansyah-ai" /></a> </p>
+
 - 📫 How to reach me **fitrahfadlansyah@gmail.com**
 
 - 📄 Know about my experiences [I also completed an internship at Jakarta Global University and had the opportunity to visit Oracle, where I gained valuable insights into the professional technology industry.](I also completed an internship at Jakarta Global University and had the opportunity to visit Oracle, where I gained valuable insights into the professional technology industry.)
